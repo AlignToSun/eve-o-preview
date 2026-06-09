@@ -1,8 +1,18 @@
-## Overview
+
+
+----
+
+## EVE-O Overview
 
 The purpose of this application is to provide a simple way to keep an eye on several simultaneously running EVE Online clients and to easily switch between them. While running it shows a set of live thumbnails for each of the active EVE Online clients. These thumbnails allow fast switch to the corresponding EVE Online client either using mouse or configurable hotkeys.
 
 It's essentially a task switcher, it does not relay any keyboard/mouse events and suchlike. The application works with EVE, EVE through Steam, or any combination thereof.
+
+## Regard to Licensing
+
+This fork is bracnhing `80a93a5` (the final MIT-licensed release). 
+
+The upstream project shifted from MIT to a proprietary "All Rights Reserved" model, and subsequently introduced a combined GNU GPLv3 / premium licensing structure. Due to the legal contradictions and ambiguities introduced by the original owner regarding this transition, this repository was created to preserve and maintain the original, cleanly-licensed open-source MIT codebase.
 
 The program does NOT (and will NOT ever) do the following things:
 
